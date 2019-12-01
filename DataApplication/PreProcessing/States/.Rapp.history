@@ -1,0 +1,3 @@
+load("/Users/castroda/Dropbox/Projects/FactorCopulaModel/Application/US/1_Data/USHCN/2_Filtered_by_missings/States/state01_AL_6.Rdata")
+ls()
+dim(dat1)
